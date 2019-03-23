@@ -1,3 +1,3 @@
 noem naam en artiest
 ---
-![Video](https://www.youtube.com/embed/TSP0e5rXUl8?start=3 frameborder="30" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture)
+![Video](www.youtube.com/embed/qHn0SJHL6Sk?rel=0&modestbranding=1&autohide=1&showinfo=0&controls=0)
